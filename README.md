@@ -27,9 +27,9 @@ Our Template-oriented Prompting (ToP) approach demonstrates significant improvem
 | Graph-of-Thought | 73.2 |
 | Meta Prompting | 67.0 |
 | Buffer-of-Thoughts | 82.4 |
-| **Template-oriented Prompting (ToP)** | **90** |
+| **Template-oriented Prompting (ToP)** | **90.0** |
 
-ToP achieves a **90%** accuracy on the Game of 24 benchmark, representing an **8.5%** improvement over the previous state-of-the-art method.
+ToP achieves a **90.0%** accuracy on the Game of 24 benchmark, representing an **7.6%** improvement over the previous state-of-the-art method.
 
 
 ## Installation
