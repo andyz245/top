@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;METABUFFER-MATH&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"MetaBuffer-Math appears to be an entity providing educational content related to various types of problem-solving strategies and mathematical concepts."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;NORMALIZATION PROBLEM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Normalization Problem refers to finding the quantity of a single unit and using it as a standard to calculate the required total quantity."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;TOTAL QUANTITY PROBLEM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Total Quantity Problem involves calculating the total amount of something based on given unit quantities and conditions."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;SUM AND DIFFERENCE PROBLEM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Sum and Difference Problem provides solutions to finding individual quantities based on given sum and difference."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;SUM AND MULTIPLE PROBLEM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Sum and Multiple Problem is defined by the sum of two numbers where one is a multiple or fraction of the other."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;DIFFERENCE AND MULTIPLE PROBLEM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Difference and Multiple Problem refers to finding values based on the difference between two numbers and multiplicative relationships."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;PROPORTIONAL PROBLEM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Proportional Problem deals with identifying a multiple from known quantities and using proportional relationships to calculate outputs."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;PROBLEM TYPE 1: NORMALIZATION PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An event or scenario focused on understanding and solving Normalization Problems, which require determining a unit quantity for further calculations."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;PROBLEM TYPE 2: TOTAL QUANTITY PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An event or scenario dealing with Total Quantity Problems, aimed at calculating total quantities from unit rates and numbers of units."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;PROBLEM TYPE 3: SUM AND DIFFERENCE PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An event or scenario focused on solving Sum and Difference Problems, requiring formulas to find individual values based on their sum and difference."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;PROBLEM TYPE 4: SUM AND MULTIPLE PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An event or scenario addressing Sum and Multiple Problems, where you find individual numbers by understanding their sum and multiplicative relationship."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;PROBLEM TYPE 5: DIFFERENCE AND MULTIPLE PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An event or scenario concerning Difference and Multiple Problems, aimed at finding quantities by using differences and multiplicative connections."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd</data>
+</node>
+<node id="&quot;PROBLEM TYPE 6: PROPORTIONAL PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An event or scenario that involves solving Proportional Problems by establishing proportional relationships from given quantities."&lt;SEP&gt;"The Proportional Problem type involves relationships where one known quantity is a multiple of another, and is solved by determining the multiple and applying it to find an unknown quantity."</data>
+  <data key="d2">chunk-6fae0c1d3bf8383af8bfe66c72896fdd&lt;SEP&gt;chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;RAPESEED&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Rapeseed is a type of plant from which oil can be produced, used in a proportional problem example."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;NANJING&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Nanjing is a city between which and Shanghai a waterway is located, used in a meeting problem example involving ship travel."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;SHANGHAI&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Shanghai is a city between which and Nanjing a waterway is located, used in a meeting problem example involving ship travel."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;EMILY&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Emily is a character in an age problem example who is 40 years old and is 5 years older than David."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;DAVID&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"David is Emily's brother in an age problem example, and is currently 35 years old."&lt;SEP&gt;"David is a 35-year-old individual with a daughter who was born when he was 20 years old."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020&lt;SEP&gt;chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;DAVID'S DAUGHTER&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"David's daughter is currently 15 years old, indicating she was born 25 years ago."&lt;SEP&gt;"David's daughter was born when he was 20 years old and is currently 15 years old, used in an age problem example."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020&lt;SEP&gt;chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;PROBLEM TYPE 7: MEETING PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Meeting Problem type involves calculating when or where two moving objects, starting from different locations, will meet, using given distances and speeds."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;PROBLEM TYPE 8: OVERTAKING PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Overtaking Problem type involves calculating when or where a faster-moving object will overtake a slower-moving object that starts at a different time or location."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;PROBLEM TYPE 9: TREE PLANTING PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Tree Planting Problem type concerns calculating the number of trees required to be planted at specific distances in linear, circular, square, triangular, or area formats."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;PROBLEM TYPE 10: AGE PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The Age Problem type revolves around calculating the age of one person given another person's age, using a constant age difference or a ratio."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;KILOGRAM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Kilogram is a unit of measurement used to quantify mass, specifically in the examples provided for calculating oil yield or distance in relation to mass."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;SHIP&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Ship refers to the moving objects used in the meeting problem example, traveling between Nanjing and Shanghai."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;HORSE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Horse is used in the overtaking problem example, representing two horses with different travel speeds and start times."</data>
+  <data key="d2">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</node>
+<node id="&quot;BOAT PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A type of mathematical problem involving calculating boat and current speeds to determine travel times."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;UPSTREAM SPEED&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The speed of the boat when traveling against the current, calculated by subtracting the current speed from the boat speed."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;DOWNSTREAM SPEED&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The speed of the boat when traveling with the current, calculated by adding the current speed to the boat speed."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;TRAIN PASSING A BRIDGE PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A problem involving calculating the length of a train and time taken to pass a bridge."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;CLOCK PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A mathematical problem studying time intervals, typically involving the positions of clock hands."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;SURPLUS AND DEFICIT PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A problem involving resource distribution and managing surpluses and deficits."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;WORK PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A type of problem related to calculating work rates and times required for completion."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;BOAT SPEED&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The speed of the boat in still water, a key element in solving boat and current speed problems."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;CURRENT SPEED&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The speed of the water flow, which affects the overall speed of the boat in water."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;TRAIN LENGTH&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The length of the train, which is calculated in train passing problems."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;BRIDGE LENGTH&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The length of the bridge that a train must pass over in train passing problems."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;MINUTE HAND&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The hand on the clock that measures the passing minutes, moves faster than the hour hand."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;HOUR HAND&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The hand on the clock that measures the passing hours, moves slower than the minute hand."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;CATCH-UP PROBLEM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A problem structure used to determine when one moving object will catch up to another."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;DISTRIBUTION DIFFERENCE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The difference in quantity distributed between two scenarios in surplus and deficit problems."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;NUMBER OF PARTICIPANTS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The total number of people involved in a distribution problem, calculated using surpluses and deficits."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;TOTAL APPLES&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The total number of apples distributed in the kindergarten problem, calculated using the number of children and surpluses."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;WORK RATE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The rate at which work is completed, often used to calculate time or effort required in work problems."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;KINDERGARTEN DISTRIBUTION PROBLEM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A problem involving the distribution of apples to children with differing outcomes based on the number of apples given."</data>
+  <data key="d2">chunk-c556878e9b737110f58ace12242d7020</data>
+</node>
+<node id="&quot;NEWTON&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Newton is a famous scientist who proposed a problem known as the 'Cows Eating Grass Problem', which involves grass growth while being eaten."</data>
+  <data key="d2">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+</node>
+<node id="&quot;TEAM A&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Team A is a group of individuals who can complete a specific project alone in 10 days, demonstrating their work efficiency."</data>
+  <data key="d2">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+</node>
+<node id="&quot;TEAM B&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Team B is a group of individuals who can complete the same project alone in 15 days, indicating their work efficiency."</data>
+  <data key="d2">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+</node>
+<node id="&quot;WASHINGTON&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Washington is referenced as a significant location for communications, indicating its role in decision-making processes."</data>
+  <data key="d2">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+</node>
+<node id="&quot;OPERATION: DULCE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Operation: Dulce is a mission that involves a strategic evolution from passive observation to active participation."</data>
+  <data key="d2">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+</node>
+<node id="&quot;DAQIANG&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Daqiang is a person who deposited 1200 yuan in a bank account with a monthly interest rate, leading to the accumulation of interest over time."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;BANK&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Banks are financial institutions that accept deposits, offer interest rates, and manage funds, such as Daqiang's account."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;CLASS A&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Class A is a student group with a specified number of students related to Class B through a mathematical equation."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;CLASS B&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Class B is a student group involved in a mathematical problem concerning its student count in relation to Class A."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;JANUARY&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"January is the time period in which the initial price change of 10% is applied."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;FEBRUARY&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"February is the time period following January where a 10% decrease in price occurs, resulting in an overall 1% decrease."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;INTEREST RATE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Interest Rate is a financial concept referring to the percentage charged on the principal amount by a lender to a borrower."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;PRINCIPAL&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Principal is the initial amount of money deposited or borrowed, on which interest is calculated."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;DEPOSIT TERM&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Deposit Term refers to the duration for which a sum of money is deposited in a bank to accrue interest."</data>
+  <data key="d2">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</node>
+<node id="&quot;COWS EATING GRASS PROBLEM&quot;">
+  <data key="d2">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+  <data key="d1">"Newton is credited with proposing the 'Cows Eating Grass Problem', which examines the interaction between grass growth and consumption."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<edge source="&quot;NANJING&quot;" target="&quot;SHANGHAI&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Nanjing and Shanghai are connected by a waterway used in a meeting problem involving ship travel between the two locations."</data>
+  <data key="d5">"geographic connection, transportation"</data>
+  <data key="d6">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</edge>
+<edge source="&quot;EMILY&quot;" target="&quot;DAVID&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Emily and David have a constant age difference of 5 years, used to solve an age problem."</data>
+  <data key="d5">"family relation, age difference"</data>
+  <data key="d6">chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</edge>
+<edge source="&quot;DAVID&quot;" target="&quot;DAVID'S DAUGHTER&quot;">
+  <data key="d3">19.0</data>
+  <data key="d4">"David had his daughter when he was 20 years old, and she is currently 15 years old."&lt;SEP&gt;"David's age and his daughter's age are used in an age problem to find out her birth date relative to current age."</data>
+  <data key="d5">"family relation, age calculation"&lt;SEP&gt;"family, age calculation"</data>
+  <data key="d6">chunk-c556878e9b737110f58ace12242d7020&lt;SEP&gt;chunk-75b3f5671ea81e13d0098a8ec6e5ce2e</data>
+</edge>
+<edge source="&quot;NEWTON&quot;" target="&quot;COWS EATING GRASS PROBLEM&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Newton is credited with proposing the 'Cows Eating Grass Problem', which examines the interaction between grass growth and consumption."</data>
+  <data key="d5">"scientific contribution, problem solving"</data>
+  <data key="d6">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+</edge>
+<edge source="&quot;TEAM A&quot;" target="&quot;TEAM B&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Team A and Team B are related through a collaborative work effort to complete a project in a shorter timeframe."</data>
+  <data key="d5">"collaboration, efficiency improvement"</data>
+  <data key="d6">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+</edge>
+<edge source="&quot;WASHINGTON&quot;" target="&quot;OPERATION: DULCE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Washington is involved in communications with the team executing Operation: Dulce, indicating a governmental connection or oversight."</data>
+  <data key="d5">"governmental oversight, coordination"</data>
+  <data key="d6">chunk-20eec8b5133e6ab2f7f13c4f08aef834</data>
+</edge>
+<edge source="&quot;DAQIANG&quot;" target="&quot;BANK&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Daqiang deposited money in the Bank, accruing interest over a fixed period."</data>
+  <data key="d5">"financial transaction, interest accrual"</data>
+  <data key="d6">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</edge>
+<edge source="&quot;CLASS A&quot;" target="&quot;CLASS B&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Class A and Class B are involved in an equation problem calculating their respective numbers of students."</data>
+  <data key="d5">"mathematical relationship, educational context"</data>
+  <data key="d6">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</edge>
+<edge source="&quot;JANUARY&quot;" target="&quot;FEBRUARY&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"January's initial price is adjusted in February, affecting the overall price change."</data>
+  <data key="d5">"time sequence, price adjustment"</data>
+  <data key="d6">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</edge>
+<edge source="&quot;INTEREST RATE&quot;" target="&quot;PRINCIPAL&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Interest Rate is applied to the Principal to calculate the total interest accrued."</data>
+  <data key="d5">"financial calculation, interest application"</data>
+  <data key="d6">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</edge>
+<edge source="&quot;PRINCIPAL&quot;" target="&quot;DEPOSIT TERM&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The Principal is deposited over a specific Deposit Term to earn interest."</data>
+  <data key="d5">"financial investment, time-based growth"</data>
+  <data key="d6">chunk-e633fd83d65eb6f846f28eb7f196d77d</data>
+</edge>
+</graph></graphml>

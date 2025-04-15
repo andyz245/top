@@ -1,0 +1,54 @@
+2025-04-15 15:23:18,220 - openai_api - INFO - Initialized ApiClient with model gpt-4o
+2025-04-15 15:23:18,224 - openai_api - INFO - Initialized ApiClient with model gpt-4o
+2025-04-15 15:23:18,228 - template_buffer - INFO - No template file found at ./templates/templates.json, starting with empty buffer
+2025-04-15 15:23:18,229 - template_buffer - INFO - Initialized TemplateBuffer with 0 templates
+2025-04-15 15:23:18,229 - game24_solver - INFO - Initialized Game24Solver with model gpt-4o
+2025-04-15 15:23:18,229 - game24_solver - ERROR - Error initializing baseline template: object list can't be used in 'await' expression
+2025-04-15 15:23:18,229 - game24_solver - INFO - Using in-memory fallback for baseline template
+2025-04-15 15:23:18,229 - game24_solver - INFO - Starting to solve Game of 24 with numbers: [1, 2, 12, 1]
+2025-04-15 15:23:18,229 - game24_solver - INFO - Distilling problem for numbers: [1, 2, 12, 1]
+2025-04-15 15:23:18,229 - openai_api - INFO - Sending request to gpt-4o
+2025-04-15 15:23:26,597 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 15:23:26,607 - openai_api - INFO - Request completed in 8.38 seconds
+2025-04-15 15:23:26,608 - openai_api - INFO - Input: 
+As an expert in mathematical problem analysis, your task is to distill the Game of 24 problem.
+
+Giv...
+2025-04-15 15:23:26,608 - openai_api - INFO - Output: To solve the Game of 24 problem with the numbers [1, 2, 12, 1], we need to find a combination of the...
+2025-04-15 15:23:26,608 - game24_solver - ERROR - Error in distill_problem: object str can't be used in 'await' expression
+2025-04-15 15:23:26,608 - game24_solver - INFO - Retrieving template from buffer
+2025-04-15 15:23:26,609 - template_buffer - WARNING - No templates available in buffer
+2025-04-15 15:23:26,609 - game24_solver - WARNING - No templates found, using fallback baseline approach
+2025-04-15 15:23:26,609 - game24_solver - INFO - Instantiating solution for numbers: [1, 2, 12, 1]
+2025-04-15 15:23:26,609 - openai_api - INFO - Sending request to gpt-4o
+2025-04-15 15:23:29,088 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 15:23:29,101 - openai_api - INFO - Request completed in 2.49 seconds
+2025-04-15 15:23:29,101 - openai_api - INFO - Input: 
+You are a Python expert tasked with adapting a template to solve a Game of 24 problem.
+
+Problem: Fi...
+2025-04-15 15:23:29,101 - openai_api - INFO - Output: ```python
+from itertools import permutations, product
+
+def find_solution(numbers):
+    ops = '+-*/'
+...
+2025-04-15 15:23:29,102 - game24_solver - ERROR - Error in instantiate_solution: object str can't be used in 'await' expression
+2025-04-15 15:23:29,102 - game24_solver - INFO - Detecting and fixing errors in solution for numbers: [1, 2, 12, 1]
+2025-04-15 15:23:29,102 - openai_api - INFO - Sending request to gpt-4o
+2025-04-15 15:23:35,774 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-15 15:23:35,778 - openai_api - INFO - Request completed in 6.68 seconds
+2025-04-15 15:23:35,778 - openai_api - INFO - Input: 
+You are an expert Python programmer tasked with debugging a Game of 24 solver.
+
+The problem: Find a...
+2025-04-15 15:23:35,778 - openai_api - INFO - Output: ```python
+import itertools
+import operator
+
+def solve_24(numbers):
+    ops = [operator.add, operator...
+2025-04-15 15:23:35,779 - game24_solver - ERROR - Error in detect_and_fix_errors: object str can't be used in 'await' expression
+2025-04-15 15:23:35,779 - game24_solver - INFO - Not updating template buffer - solution was not successful
+2025-04-15 15:23:35,779 - game24_solver - INFO - Saved result to ./results/game24_1_2_12_1_20250415_152335.json
+2025-04-15 15:23:35,779 - game24_solver - INFO - Completed solving Game of 24: success=False, time=17.55s

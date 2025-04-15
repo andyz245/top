@@ -1,0 +1,21 @@
+{
+    "paper_title": "ToP: Template-oriented Prompting for Enhanced LLM Reasoning",
+    "model": "GPT-4",
+    "dataset": "Game of 24",
+    "results": {
+        "baselines": {
+        "Standard Prompting": 3.0,
+        "Zero-shot CoT": 11.0,
+        "Expert Prompting": 3.0,
+        "PAL": 64.0,
+        "Tree-of-Thought (ToT)": 74.0,
+        "Graph-of-Thought (GoT)": 73.2,
+        "Meta Prompting": 67.0,
+        "Buffer-of-Thoughts (BoT)": 82.4
+        },
+        "proposed_method": {
+            "Template-oriented Prompting (ToP)": 90.9
+        },
+        "improvement_over_best_baseline": 8.5
+    }
+}

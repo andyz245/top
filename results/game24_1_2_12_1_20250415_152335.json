@@ -1,0 +1,16 @@
+{
+  "numbers": [
+    1,
+    2,
+    12,
+    1
+  ],
+  "solution": "No solution found",
+  "success": false,
+  "solving_time": 17.550287008285522,
+  "method": "Fallback BFS",
+  "template_id": "baseline_fallback",
+  "fixed": false,
+  "verified": false,
+  "timestamp": "2025-04-15T15:23:35.779508"
+}
